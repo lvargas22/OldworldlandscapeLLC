@@ -4,16 +4,11 @@
     <title>My Website</title>
   </head>
   <body>
-    <header>
-      <nav>
         <ul>
           <li><a href="#hom">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
-      </nav>
-    </header>
-    <main>
       <section id="home">
         <h1>Welcome to My Website</h1>
         <p>This is the home page of my website.</p>
@@ -26,7 +21,6 @@
         <h2>Contact Me</h2>
         <p>You can contact me by email or phone.</p>
       </section>
-    </main>
     <footer>
       <p>Copyright © My Website</p>
     </footer>
